@@ -1,0 +1,8 @@
+name: msa-phylo
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - mafft
+  - trimal
+  - iqtree
