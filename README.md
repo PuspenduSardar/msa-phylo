@@ -16,7 +16,7 @@ This will install:
 - TrimAl (automated trimming)
 - IQ-TREE 2 (phylogenetic inference)
 
-### Option 2: Manual Install (not recommended)
+### Option 2: ⚠️ Manual Install (not recommended)
 
 ```bash
 sudo apt install mafft
