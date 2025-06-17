@@ -4,7 +4,7 @@ A simple modular Bash pipeline to run multiple sequence alignment, trim it, and 
 
 ## 🛠 Requirements
 
-### ✅ Recommended: Conda
+### Option 1: ✅ Recommended: Conda
 
 ```bash
 conda env create -f environment.yml
